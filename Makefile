@@ -19,7 +19,7 @@ OBJ			= $(addprefix $(OBJ_PATH)/,$(OBJ_NAME))
 
 CC			= gcc
 
-CFLAGS		= -Wall -Wextra -Werror -g #-g3 -fsanitize=address,undefined
+CFLAGS		= -Wall -Wextra -Werror #-g3 -fsanitize=address,undefined
 
 .PHONY		: all clean fclean re
 
