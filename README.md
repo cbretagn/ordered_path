@@ -16,7 +16,9 @@ couple of maps in maps to try it out.
 Expected format for a map is :
 
 width heigh
+
 value1 value2
+
 value3 ...
 
 ## Algo
